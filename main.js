@@ -84,4 +84,4 @@ client.on('message', async (message) => {
     
 
 });
-client.login("BOT TOKEN"); //Head to https://discord.com/developers/applications 
+client.login("OTc1MTM4MDgyOTI1OTY5NDU4.GhGhdc.EW0Bd75JWF9AK_yCowCgq_swBE4UCnOI_ZWESAN"); //Head to https://discord.com/developers/applications 
